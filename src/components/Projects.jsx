@@ -1,14 +1,14 @@
 export default function Projects() {
   const projects = [
     {
-      name: "Holiday Me",
-      description: "A holiday request platform for managing employees vacations",
-      technologies: ["React", "Node.js", "PostgreSQL"]
+      name: "@morgan-stanley/composeui-messaging-abstractions – NPM library",
+      description: "A standardized messaging abstraction layer for ComposeUI Link: https://www.npmjs.com/package/@morgan-stanley/composeui-messaging-abstractions",
+      technologies: ["Typescript"]
     },
     {
-      name: "Interscope",
-      description: "A CLI swagger documentation tool",
-      technologies: ["Node.js", "OpenAPI"]
+      name: "Afrodin",
+      description: "A live e-commerce platform showcasing African fashion and cultural products https://www.afrodin.com",
+      technologies: ["React", "Node.js", "Postgres"]
     },
     {
       name: "Pollster",
